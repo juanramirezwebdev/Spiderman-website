@@ -5,7 +5,7 @@ const movies = [
       movielink: 'https://fmovies.ps/movie/watch-spiderman-online-19397',
       description:
       'Centered on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.',
-      imageUrl:'https://lh3.googleusercontent.com/proxy/6cA1ElOSliq7zLrTzlRXqP7_Su8PS6hd66NxXgiTqK1xFjZNAVoqPyT1ggkBRXEtvxMbFJtcu4PzLzzsbuYqZVQ9dTOnvEGuDxZI1wOiQ8k' ,
+      imageUrl:'https://musicart.xboxlive.com/7/23f25000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080' ,
       
     },
     {
